@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oBGFs2prnqPFfI9WQbb0rVlaFTFrbc856YwgYfy+2bUWD16Tem5+H6Pah/FcnPlUn8qJ0oct6nuwlZpXo/W3Ww==",
+  "success": true,
+  "projectFilePath": "E:\\Deliverable\\Deliverable2\\Deliverable2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Curtis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
